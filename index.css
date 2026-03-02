@@ -1,0 +1,17 @@
+
+*{
+    margin: 2;
+    padding: 1;
+}
+h1{
+    color: aqua;
+    background-color: aliceblue;
+}
+h2{
+    color: brown;
+    background-color: blanchedalmond;
+}
+h3{
+    color: aquamarine;
+    background-color: black;
+}
